@@ -21,4 +21,4 @@ Open browser at http://localhost:48383/
 
 Pictures will be served from $HOME/Pictures. 
 
-NOTE: The server is using a relative path to find the client build
+NOTE: The server is using a relative path to find the client build.
